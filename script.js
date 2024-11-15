@@ -1,16 +1,10 @@
-const botonTema = document.getElementById('botonTema');
+const boton_tema = document.getElementById('boton_tema');
 
-
-botonTema.addEventListener("clic", () => {
-    document.body.classList.contains("tema-claro")
-    if(document.body.classList.contains("tema-claro")){
-        botonTema.textContent = "cambiara tema obscuro";
-        
+boton_tema.addEventListener("click", () => {
+    document.body.classList.toggle("tema-claro"); // Usamos el nombre de clase consistente
+    if (document.body.classList.contains("tema-claro")) {
+        boton_tema.textContent = "Tema Oscuro"; // Texto correcto para alternar
+    } else {
+        boton_tema.textContent = "Tema Claro";
     }
-    else    {
-        botonTema.textContent = "cambiar a Tema Claro";
-        
-    }
-
-
 });
