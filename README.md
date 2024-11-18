@@ -42,20 +42,32 @@ Abrir el archivo index.html en tu navegador para ver la página de ejemplo.
 Publicar en GitHub Pages:
 
 En GitHub, ve a Settings > Pages y selecciona la rama main para publicar el sitio.
-Tu sitio estará disponible en: https://axlshezard.github.io/mi-pagina-tema-obscuro/.
+Tu sitio estará disponible en:
+
+# https://axlshezard.github.io/mi-pagina-tema-obscuro/.
+
+
 Funcionalidad
+
+
 Al cargar la página, se muestra en tema oscuro por defecto.
 Al hacer clic en el botón, el tema alterna entre oscuro y claro, cambiando los colores de fondo y del texto.
 El ícono SVG también cambia de color según el tema.
 Tecnologías Utilizadas
+
+
 HTML: Estructura de la página.
 CSS: Estilos y variables para los temas.
 JavaScript: Manejo del cambio de tema con eventos.
 GitHub Pages: Despliegue de la página web.
+
+
 Recursos y Enlaces Útiles
 Guía de Temas con CSS Variables
 Uso de SVG en HTML
 GitHub Pages Documentation
+
+
 Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto o añadir funcionalidad, siéntete libre de abrir un pull request o crear un issue.
 
