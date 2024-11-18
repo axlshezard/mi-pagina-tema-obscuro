@@ -17,6 +17,8 @@ Ejemplo de la interfaz de la página en modo oscuro
 Estructura del Proyecto
 bash
 Copiar código
+
+
 mi-pagina-tema-oscuro/
 ├── index.html       ## Estructura básica de la página
 
