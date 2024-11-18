@@ -18,16 +18,20 @@ Estructura del Proyecto
 bash
 Copiar código
 mi-pagina-tema-oscuro/
-├── index.html       # Estructura básica de la página
-├── styles.css       # Estilos de la página (tema oscuro/claro)
-├── script.js        # Código JavaScript para la funcionalidad de cambio de tema
-└── README.md        # Documentación del proyecto
+├── index.html       ## Estructura básica de la página
+
+├── styles.css       ## Estilos de la página (tema oscuro/claro)
+
+├── script.js        ## Código JavaScript para la funcionalidad de cambio de tema
+
+└── README.md        ## Documentación del proyecto
+
 Instrucciones de Instalación y Configuración
 Clonar el repositorio:
 
 bash
 Copiar código
-git clone https://github.com/axlshezard/mi-pagina-tema-oscuro.git
+git clone  https://github.com/axlshezard/mi-pagina-tema-obscuro.git
 cd mi-pagina-tema-oscuro
 Abrir el archivo index.html en tu navegador para ver la página de ejemplo.
 
