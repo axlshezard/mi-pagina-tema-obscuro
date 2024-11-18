@@ -27,14 +27,14 @@ Clonar el repositorio:
 
 bash
 Copiar código
-git clone https://github.com/tu-usuario/mi-pagina-tema-oscuro.git
+git clone https://github.com/axlshezard/mi-pagina-tema-oscuro.git
 cd mi-pagina-tema-oscuro
 Abrir el archivo index.html en tu navegador para ver la página de ejemplo.
 
 Publicar en GitHub Pages:
 
 En GitHub, ve a Settings > Pages y selecciona la rama main para publicar el sitio.
-Tu sitio estará disponible en: https://tu-usuario.github.io/mi-pagina-tema-oscuro/.
+Tu sitio estará disponible en: https://axlshezard.github.io/mi-pagina-tema-obscuro/.
 Funcionalidad
 Al cargar la página, se muestra en tema oscuro por defecto.
 Al hacer clic en el botón, el tema alterna entre oscuro y claro, cambiando los colores de fondo y del texto.
