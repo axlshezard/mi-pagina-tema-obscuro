@@ -20,6 +20,8 @@ Copiar código
 
 
 mi-pagina-tema-oscuro/
+
+
 ├── index.html       ## Estructura básica de la página
 
 ├── styles.css       ## Estilos de la página (tema oscuro/claro)
