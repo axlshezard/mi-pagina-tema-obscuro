@@ -19,16 +19,16 @@ bash
 Copiar código
 
 
-# mi-pagina-tema-oscuro/
+### mi-pagina-tema-oscuro/
 
 
-# ├── index.html       * Estructura básica de la página
+## ├── index.html       * Estructura básica de la página
 
-# ├── styles.css       * Estilos de la página (tema oscuro/claro)
+## ├── styles.css       * Estilos de la página (tema oscuro/claro)
 
-# ├── script.js        * Código JavaScript para la funcionalidad de cambio de tema
+## ├── script.js        * Código JavaScript para la funcionalidad de cambio de tema
 
-# └── README.md        * Documentación del proyecto
+## └── README.md        * Documentación del proyecto
 
 Instrucciones de Instalación y Configuración
 Clonar el repositorio:
